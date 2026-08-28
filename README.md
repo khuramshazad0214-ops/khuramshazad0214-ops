@@ -31,7 +31,7 @@ Currently Senior Solutions Architect at Bluelight Consulting, owning solution de
 
 ### Stack
 
-`Python` `C# / .NET` `TypeScript` `Node.js` `SQL` `Java`
+`Python` `C# / .NET` `TypeScript` `Node.js` `SQL`
 
 `FastAPI` `ASP.NET Core` `NestJS` `React` `Next.js`
 
